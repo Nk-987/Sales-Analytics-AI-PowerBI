@@ -1,25 +1,45 @@
-# Sales Analytics using AI & Power BI
+# 📊 Sales Analytics Dashboard
 
-This project demonstrates sales data analysis using Python,
-machine learning models, and Power BI-ready datasets.
+A data analysis project to extract insights from sales data.
 
-## Tools Used
-- Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning (Linear Regression, Random Forest)
-- Power BI
-- Google Colab
+---
 
-## What I Did
-- Cleaned and analyzed sales data
-- Engineered features for better insights
-- Trained ML models to predict sales
-- Compared model performance
-- Exported dataset for Power BI dashboards
+## 🚀 Features
 
-## Files
-- `Sales_Analysis_AI.ipynb` – Complete analysis & ML
-- `sales_data.csv` – Raw dataset
-- `sales_powerbi_ready.csv` – Power BI-ready dataset
+- 📊 Data visualization
+- 📈 Trend analysis
+- 💰 Revenue insights
+- 📉 Performance metrics
 
-## Author
-Nitesh Kumar
+---
+
+## 🧠 Tech Stack
+
+- Python / Power BI
+- Pandas
+- Matplotlib / Seaborn
+
+---
+
+## ⚙️ Workflow
+
+1. Data cleaning
+2. Exploratory Data Analysis
+3. Visualization
+4. Insight generation
+
+---
+
+## 📊 Insights
+
+- Top-selling products
+- Monthly trends
+- Profit analysis
+
+---
+
+## ▶️ Run
+
+```bash
+pip install pandas matplotlib
+python main.py
